@@ -21,8 +21,6 @@ Take part in the battle against enemy spaceships on the surface of an abstract p
 * Animation of the thrust of the spacecraft engines, depending on the direction of flight.
 * Controlling the spaceships takes place on the basis of providing it with acceleration and direction. This is what achieves the steaming effect.
 
-![Uploading moveAcceleration.gif…]()
-
 https://user-images.githubusercontent.com/36519646/227786017-79e59db4-22cc-435c-aba4-7e38f62a09a8.mp4
 
 * Collision of projectiles
